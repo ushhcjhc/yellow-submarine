@@ -1,0 +1,10 @@
+header{
+    background-color: blue;
+    box-sizing: border-box;
+    bottom: 8px;
+
+}
+header li {
+    display: flex;
+    flex-direction: row;
+}
